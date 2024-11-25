@@ -1,6 +1,6 @@
 # Hi there 👋
 
-###Hello my name is Thomas I'm a digital student at LaPlateforme
+Hello my name is Thomas I'm a digital student at LaPlateforme
 
 ##
 - 🔭 I’m currently working on: Github Readme 
