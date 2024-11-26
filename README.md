@@ -19,3 +19,5 @@
 
 ### Me contacter :
 📬 mail : thomas.veran@laplateforme.io
+
+n'hésitez pas a me faire des retour pour améliorer mon Readme.
