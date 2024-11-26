@@ -18,4 +18,4 @@
 *Création d'un morpion jouable en language de code Python* [Morpion Python](https://github.com/thomas-veran/le-morpion)
 
 ### Me contacter :
-📬 mail : thomasvrnpro@gmail.com
+📬 mail : thomas.veran@laplateforme.io
