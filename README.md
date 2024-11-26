@@ -5,6 +5,8 @@
 **FR** Bonjour, je m'appelle Thomas et je suis étudiant en informatique à LaPlateforme.
 
 
-##
-Mes compétences Professionnel :
+## Mes compétences Professionnel :
 *j'ai effectuer plusieurs stages au sein d'entreprises Informatique en tant que technicien en maintenance Informatique*
+*j'y ai beaucoup appris en Hardware et en Système*
+
+## Liste de Projets :
