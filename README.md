@@ -9,7 +9,7 @@
 
 ## Mes compétences Professionnel :
 *j'ai effectuer plusieurs stages au sein d'entreprises Informatique en tant que technicien en maintenance Informatique*
-*j'y ai beaucoup appris en Hardware et en Système*
+*j'y ai beaucoup appris en Hardware et en Système, virtualisation*
 
 ## Réalisations :
 
