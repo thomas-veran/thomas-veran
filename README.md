@@ -16,3 +16,6 @@
 *Création d'un Fansite sur Eric et Ramzy avec le language de balise HTML + CSS* [Fansite](https://github.com/thomas-veran/fansitethomas)
 
 *Création d'un morpion jouable en language de code Python* [Morpion Python](https://github.com/thomas-veran/le-morpion)
+
+### Me contacter :
+📬 mail : thomasvrnpro@gmail.com
