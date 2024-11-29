@@ -17,6 +17,8 @@
 
 *Création d'un morpion jouable en language de code Python* [Morpion Python](https://github.com/thomas-veran/le-morpion)
 
+*Voici mon portfolio* [Portfolio](https://github.com/thomas-veran/Portfolio)
+
 ### Me contacter :
 📬 mail : thomas.veran@laplateforme.io
 
