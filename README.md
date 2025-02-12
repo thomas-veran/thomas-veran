@@ -1,5 +1,5 @@
 # Thomas Veran ! 👋
-![oe](https://t3.ftcdn.net/jpg/05/14/95/12/360_F_514951224_2dxMLbIw5qNRdPGD003chpbVcxWtcp7K.jpg)
+![oe](https://img.freepik.com/vecteurs-premium/technologie-reseau-cybersecurite-icone-cadenas-protection-du-reseau-connexion-internet_618588-1602.jpg?semt=ais_hybrid)
 
 
 **EN** Hello my name is Thomas I'm a digital student at LaPlateforme
