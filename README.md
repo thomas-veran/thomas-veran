@@ -2,9 +2,9 @@
 ![oe](https://img.freepik.com/vecteurs-premium/technologie-reseau-cybersecurite-icone-cadenas-protection-du-reseau-connexion-internet_618588-1602.jpg?semt=ais_hybrid)
 
 
-**EN** Hello my name is Thomas I'm a digital student at LaPlateforme
+ 🇬🇧 Hello my name is Thomas I'm a digital student at LaPlateforme
 
-**FR** Bonjour, je m'appelle Thomas et je suis étudiant en informatique à LaPlateforme.
+🇫🇷 Bonjour, je m'appelle Thomas et je suis étudiant en informatique à LaPlateforme.
 
 
 ## Mes compétences Professionnel :
@@ -15,11 +15,11 @@
 
 *Voici mon portfolio* [Portfolio](https://github.com/thomas-veran/Portfolio)
 
-*📞 Installation et configuration d'un serveur VoiP pour réaliser des appels sur le serveur avec Asterisk.
+📞 Installation et configuration d'un serveur VoiP pour réaliser des appels sur le serveur avec Asterisk.
 
-*💻 création d'un bureau avec 5 poste et une salle de serveur en LAN sur Cisco Packet Tracer.
+💻 création d'un bureau avec 5 poste et une salle de serveur en LAN sur Cisco Packet Tracer.
 
-*🗒️ configuration d'un annuaire LDAP avec 3 utilisateurs avec des permissions.
+🗒️ configuration d'un annuaire LDAP avec 3 utilisateurs avec des permissions.
 
 *Création d'un morpion jouable en language de code Python* [Morpion Python](https://github.com/thomas-veran/le-morpion)
 
