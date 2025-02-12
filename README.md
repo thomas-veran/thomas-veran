@@ -8,12 +8,16 @@
 
 
 ## Mes compétences Professionnel :
-*j'ai effectuer plusieurs stages au sein d'entreprises Informatique en tant que technicien en maintenance Informatique*
-*j'y ai beaucoup appris en Hardware et en Système, virtualisation*
+*j'ai acqueris plusieurs compétences au sein d'entreprises Informatique en tant que technicien en maintenance Informatique*
+*j'y ai beaucoup appris en Hardware et en Système, virtualisation, Bash, Cisco Packet Tracer, VoiP*
 
 ## Réalisations :
 
-*Création d'un Fansite sur Eric et Ramzy avec le language de balise HTML + CSS* [Fansite](https://github.com/thomas-veran/fansitethomas)
+📞 *Installation et configuration d'un serveur VoiP pour réaliser des appels sur le serveur avec Asterisk.
+
+💻 *création d'un bureau avec 5 poste et une salle de serveur en LAN sur Cisco Packet Tracer.
+
+🗒️ *configuration d'un annuaire LDAP avec 3 utilisateurs avec des permissions.
 
 *Création d'un morpion jouable en language de code Python* [Morpion Python](https://github.com/thomas-veran/le-morpion)
 
