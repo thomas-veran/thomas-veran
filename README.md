@@ -13,15 +13,15 @@
 
 ## Réalisations :
 
-📞 *Installation et configuration d'un serveur VoiP pour réaliser des appels sur le serveur avec Asterisk.
+*Voici mon portfolio* [Portfolio](https://github.com/thomas-veran/Portfolio)
 
-💻 *création d'un bureau avec 5 poste et une salle de serveur en LAN sur Cisco Packet Tracer.
+*📞 Installation et configuration d'un serveur VoiP pour réaliser des appels sur le serveur avec Asterisk.
 
-🗒️ *configuration d'un annuaire LDAP avec 3 utilisateurs avec des permissions.
+*💻 création d'un bureau avec 5 poste et une salle de serveur en LAN sur Cisco Packet Tracer.
+
+*🗒️ configuration d'un annuaire LDAP avec 3 utilisateurs avec des permissions.
 
 *Création d'un morpion jouable en language de code Python* [Morpion Python](https://github.com/thomas-veran/le-morpion)
-
-*Voici mon portfolio* [Portfolio](https://github.com/thomas-veran/Portfolio)
 
 ### Me contacter :
 📬 mail : thomas.veran@laplateforme.io
