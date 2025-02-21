@@ -15,7 +15,7 @@
 
 *Voici mon portfolio* [Portfolio](https://github.com/thomas-veran/Portfolio)
 
-📞 Installation et configuration d'un serveur VoiP pour réaliser des appels sur le serveur avec Asterisk.
+📞 Installation et configuration d'un serveur VoiP pour réaliser des appels chiffrés sur le serveur avec le protocol TLS sur Asterisk.
 
 💻 création d'un bureau avec 5 poste et une salle de serveur en LAN sur Cisco Packet Tracer.
 
